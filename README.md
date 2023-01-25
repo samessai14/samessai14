@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there 👋 I'm Sami!
+I'm a full stack engineer striving to make tools that make our lives a little bit easier
 
-<!--
-**samessai14/samessai14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills & Techs:
 
-Here are some ideas to get you started:
+React GitHub AWS JavaScript Express.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PostgreSQL Python TypeScript Docker Webpack
+
+MongoDB NodeJS
+
+Jest NPM React Router HTML5 Git Postman
+
+Redux SASS
