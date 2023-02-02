@@ -1,5 +1,5 @@
 Hi there 👋 I'm Sami!
-I'm a full stack engineer striving to make tools that make our lives a little bit easier
+I'm an engineer striving to make tools that make our lives a little bit easier.
 
 Skills & Techs:
 
