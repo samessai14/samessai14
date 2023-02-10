@@ -1,5 +1,6 @@
-Hi there 👋 I'm Sami!
-I'm an engineer striving to make tools that make our lives a little bit easier.
+Full stack software engineer with expertise in Javascript, Node, React, Docker and more. I am passionate about building useful tools and enabling others to maximize their time for creative and problem solving endeavors. I am an active contributor to the open source community, and am currently working on Dockwell, a zero-configuration developer tool for docker container metrics monitoring.
+
+An avid gamer, travel junkie, backyard philosopher and tech enthusiast. 
 
 Skills & Techs:
 
